@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FaceDetectionProject/.idea/FaceDetectionProject.iml" filepath="$PROJECT_DIR$/../FaceDetectionProject/.idea/FaceDetectionProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/HandTrack.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/HandTrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HandTrackingProject/.idea/HandTrackingProject.iml" filepath="$PROJECT_DIR$/../HandTrackingProject/.idea/HandTrackingProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PoseEstimationProject.iml" filepath="$PROJECT_DIR$/.idea/PoseEstimationProject.iml" />
+    </modules>
+  </component>
+</project>
